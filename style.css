@@ -1,0 +1,9 @@
+.logo{
+    width: 50px;
+    height: 55px;
+}
+.logo-name{
+    top: 10px;
+    left: 80px;
+    gap: 4px;
+}
