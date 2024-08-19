@@ -1,9 +1,22 @@
 .logo{
-    width: 50px;
-    height: 55px;
+    width: 40px;
+    height: 40px;
 }
 .logo-name{
     top: 10px;
     left: 80px;
     gap: 4px;
+}
+.nav{
+    display:inline-flex;
+    padding-left: 15%; 
+    
+ }
+.nav-btn{
+    padding-left: 120px;
+    
+
+}
+.btn1{
+    border-radius: 8px;
 }
