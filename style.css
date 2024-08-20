@@ -8,7 +8,22 @@
     padding-left: 17%;
 }
 .doc-pic{
-    width: 200px;
-    height: 200px;
-    right: 200px;
+    width: 380px;
+    height: 420px;
+    right: 130px;
+    bottom: 200px;
+    
+}
+.bac-pic{
+    Width: 360px;
+    Height:370px;
+    top: 77px;
+    left: 73px;
+}
+.content{
+    padding-top: 100px;
+
+}
+.btt{
+    background-color: aqua;
 }
