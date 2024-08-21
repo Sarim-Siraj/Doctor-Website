@@ -5,7 +5,8 @@
 }
 .logo-name{
     top: 10px;
-    padding-left: 17%;
+    padding-left:7%;
+    width: 100%;
 }
 .doc-pic{
     width: 380px;
@@ -43,7 +44,18 @@
     height: 200px;
     
 }
-.gle{
-display: inline-block;
-justify-content: right !important;
+.img1{
+  right: 100px;
+  width: max-content;
+
+   
+}  
+.content-1{
+    margin-top: 100px;
+
+} 
+.btn-2{
+    height: 55px;
+    width: 150px;
+
 }
