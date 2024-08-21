@@ -25,5 +25,25 @@
 
 }
 .btt{
-    background-color: aqua;
+    background-color:#e0f5dc;
+    height: 100px;
+  
+}
+.box-2{
+    margin-left:40px!important;
+}
+.switch{
+    margin-left: 70px!important;
+}
+.mx-5{
+    margin-left:150px!important;    
+} 
+.cont{
+    background-color: #ffffff;
+    height: 200px;
+    
+}
+.gle{
+display: inline-block;
+justify-content: right !important;
 }
