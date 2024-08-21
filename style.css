@@ -44,12 +44,12 @@
     height: 200px;
     
 }
-.img1{
+/* .img1{
   right: 100px;
   width: max-content;
 
    
-}  
+}   */
 .content-1{
     margin-top: 100px;
 
@@ -68,4 +68,15 @@
 }
 .link{
     margin-left: 20%;
+    
+}
+.link-btn{
+    height: 35px;
+}
+.customer-photo{
+    width:100px ;
+    margin-top: 20px;
+    margin-left: 5%;
+
+
 }
