@@ -5,7 +5,7 @@
 }
 .logo-name{
     top: 10px;
-    padding-left:7%;
+    /* padding-left:7%; */
     width: 100%;
 }
 .doc-pic{
@@ -13,7 +13,7 @@
     height: 420px;
     right: 130px;
     bottom: 200px;
-    
+    /* g-2 g-lg-3  */
 }
 .bac-pic{
     Width: 360px;
@@ -80,3 +80,8 @@
 
 
 }
+.vv{
+    width: 115px;
+    height: 36px;
+}
+
