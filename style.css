@@ -12,19 +12,20 @@
     /* padding-left:7%; */
     width: 100%;
 }
-.doc-pic{
-    width: 380px;
-    height: 420px;
-    right: 130px;
-    bottom: 200px;
-    /* g-2 g-lg-3  */
+.dd{
+    width: 400px;
+    height: 400px;
+    margin-top: 20px;
+    
+    
+    
 }
-.bac-pic{
+/* .bac-pic{
     Width: 360px;
     Height:370px;
     top: 77px;
     left: 73px;
-}
+}  */
 .content{
     padding-top: 100px;
 
@@ -54,10 +55,10 @@
 
    
 }   */
-.content-1{
-    margin-top: 100px;
+/* .content-1{
+   margin-top: 100px;
 
-} 
+}  */
 .btn-2{
     height: 55px;
     width: 150px;
